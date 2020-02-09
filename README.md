@@ -18,3 +18,6 @@ cd backEnd
 npm install
 npm start
 
+
+Postman Collection
+https://www.getpostman.com/collections/052d0fa33d3b26044d75
